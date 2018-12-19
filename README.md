@@ -1,11 +1,17 @@
-# BitcoinTicker
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Bitcoin Ticker App
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-Pro: Git clone to your Xcode projects folder.
+#  Bitcoin Ticker
 
-## Finished App
-![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
+## Our Goal
 
-Copyright © The App Brewery
+The objective of this challenge is to apply the skills you learned in the Clima tutorial and make a Bitcoin price reporter. We are going to revisit how to use Cocoapods, networking calls and JSON parsing. This will be the most advanced challenge you will face to date. We believe in you!
+
+## What you will create
+
+We’re going to make a Bitcoin price ticker. The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
+
+
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](Documentation/readme-end-banner.png)
